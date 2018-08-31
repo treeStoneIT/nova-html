@@ -12,14 +12,4 @@ class Html extends Field
      * @var string
      */
     public $component = 'html';
-
-    /**
-     * Indicates if the element should be shown on the edit pages.
-     *
-     * @var bool
-     */
-    public $showOnCreation = false;
-    public $showOnUpdate = false;
-
-
 }
