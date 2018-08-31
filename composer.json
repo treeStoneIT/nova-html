@@ -1,6 +1,6 @@
 {
     "name": "treestoneit/html",
-    "description": "A Laravel Nova field.",
+    "description": "A Laravel Nova Html View field.",
     "keywords": [
         "laravel",
         "nova"
