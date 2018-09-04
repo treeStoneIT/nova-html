@@ -1,5 +1,7 @@
 # Laravel Nova HTML View Field 
 
+**Since Nova now includes `asHtml()` Meta on the Text field (as of [v1.0.9](https://github.com/laravel/nova-issues/issues/280)), there is no more need for this package as same functionality can be achieved with core Text field.**
+
 This field allows you display custom HTML in Laravel Nova, be it a link, an image or any other piece of proper html.
 
 ## Installation
